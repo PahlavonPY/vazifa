@@ -1,1 +1,2 @@
 # vazifa
+Vazifalarga doir malumotlar
